@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple HTML Tags</title>
+</head>
+<body>
+
+    <h1>Heading Tag</h1>
+
+    <p>This is a paragraph.</p>
+
+    <b>Bold Text</b><br>
+
+    <i>Italic Text</i><br>
+
+    <a href="https://www.google.com">Visit Google</a>
+
+</body>
+</html>
